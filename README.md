@@ -36,7 +36,7 @@ A `skeleton` (Halloween!!) Jupyter notebook is available in this repository that
 
 ## Submission
 
-We'll be using GitHub for assignment submission again. You can set up your own private repository on GitHub for this assignment using the link below.
+We'll be using GitHub Classroom for assignment submission again (https://classroom.github.com/a/AtOtOKMn). You can set up your own private repository on GitHub for this assignment using the link below.
 
 
 
